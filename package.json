@@ -1,0 +1,38 @@
+{
+  "name": "agileprojectapi",
+  "version": "1.0.0",
+  "description": "Agile Group Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjnyos/AgileProjectApi.git"
+  },
+  "keywords": [
+    "Strawhats",
+    "pirate",
+    "group",
+    "project"
+  ],
+  "author": "Strawhats Pirate Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjnyos/AgileProjectApi/issues"
+  },
+  "homepage": "https://github.com/sjnyos/AgileProjectApi#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.28",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  }
+}
